@@ -18,4 +18,27 @@ body {
 img {
     width: 300px;
     float: left;
+    margin: 20px;
+}
+
+.blue {
+    background: blue;
+    float: right;
+}
+
+.red {
+    background: red;
+    float: right;
+}
+
+.green {
+    background: green;
+    float: right;
+}
+
+
+.box {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
 }
